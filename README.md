@@ -24,3 +24,5 @@ brew services start mysql
 ## Ref
 
 * [MySQL :: Developer Zone](https://dev.mysql.com/)
+* [sakila database](https://downloads.mysql.com/docs/sakila-db.zip)
+* [innodb_ruby](https://github.com/jeremycole/innodb_ruby)
