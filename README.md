@@ -17,6 +17,9 @@ brew install mysql
 brew services start mysql
 ```
 
+## 教程
+
+* [深入浅出MySQL：数据库开发、优化与管理维护（第3版）](./9787115515391)
 
 ## Ref
 
