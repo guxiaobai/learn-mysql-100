@@ -1,5 +1,9 @@
 # 4-5 InnoDB数据表是如何存储的
 
+|本期版本|上期版本
+|:---:|:---:
+`Thu Oct  6 12:25:04 CST 2022` | -
+
 
 ```
 show variables like 'datadir';
