@@ -1,6 +1,15 @@
 ## 5-2 WHERE查询太慢，怎么办
 
+|本期版本|上期版本
+|:---:|:---:
+`Thu Oct  6 13:07:42 CST 2022` | -
+
 <img src="./01.png" />
+
+```sql
+show create table
+insert into xx select * from yy;
+```
 
 
 
@@ -41,6 +50,8 @@ mysql> explain select store_id, film_id from inventory where store_id = 1;
 +----+-------------+-----------+------------+------+----------------------+----------------------+---------+-------+------+----------+-------------+
 1 row in set, 1 warning (0.00 sec)
 ```
+
+
 
 ```
 mysql> show index from inventory;
